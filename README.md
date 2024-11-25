@@ -1,4 +1,4 @@
-# <div align="center">Hi 👋, I'm Abd Allteed Chot 👾</div>
+# <div align="center">Hi 👋, I'm Abd Allteef Chtourou 👾</div>
 
 <div align="center" style="margin-bottom: 30px;">🎓 Mobile Developer (Flutter & Android Native )</div>
 
