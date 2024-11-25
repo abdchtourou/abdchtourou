@@ -8,13 +8,14 @@
 - Computer science student ( Software Engineering Specialization )
 - 📱 I’m currently a **Flutter** developer & **Android Native** developer.  
 - 💬 Ask me about **Flutter** & **Android Development**.  
-- 🤝 I’m available for **freelancing** & **remote jobs**.  
+- 🤝 I’m available for **freelancing** & **remote jobs**.
+- 📧 **How to reach me:** [abdalltefchtourou@gmail.com](mailto:abdalltefchtourou@gmail.com)
+  
 
 <br> <!-- This creates space between the text and the GIF -->
 
 ![Developer GIF](https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif)
 
-📧 **How to reach me:** [abdalltefchtourou@gmail.com](mailto:abdalltefchtourou@gmail.com)
 
 ---
 
